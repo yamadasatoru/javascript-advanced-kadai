@@ -11,6 +11,12 @@ body {
   color: #888;
 }
 
+.nowcount {
+  margin: 0;
+  font-weight: bold;
+  color: #888;
+}
+
 /* テキストが表示される領域 */
 .wrap {
   margin-top: 20px;
